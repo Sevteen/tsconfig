@@ -1,5 +1,5 @@
 {
-  "name": "@sevteen/tsconfig",
+  "name": "@ih.sevteen/tsconfig",
   "version": "1.0.0",
   "description": "> Shared [TypeScript config](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) only for my projects",
   "license": "MIT",
